@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: sakib75/docker-automate:latest
+          tags: sakib75/docker-automate:1.1
